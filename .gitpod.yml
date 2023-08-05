@@ -1,0 +1,11 @@
+image:
+  file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - vscjava.vscode-java-pack
+    - VMware.vscode-spring-boot
+    - ms-azuretools.vscode-docker
+    - mtxr.sqltools
+    - mtxr.sqltools-driver-pg
+    - rangav.vscode-thunder-client
